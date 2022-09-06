@@ -47,7 +47,7 @@ Ordered
 
 ## IMAGES
 
-! [Zebrafish] (https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/31-scientistsfi.jpg)
+![Zebrafish](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/31-scientistsfi.jpg)
 
 ## LINKS
 
@@ -76,3 +76,11 @@ R exammple:
 ```r
 x <- 4^2
 ```
+
+## TASK LISTS
+
+- [] this is an incomplete item
+- [x] This is a complete item
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> suppor>
+- [x] list syntax required (and unordered or ordered lsits supported)
+
