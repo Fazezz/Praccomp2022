@@ -18,7 +18,7 @@ _ This text will be bold _
 
 _ you **can** combine them _
 
-## BlockQuotes
+## BLOCKQUOTES
 
 _The Way We Were_ by G.A. Parker
 
@@ -54,3 +54,25 @@ Ordered
 https://brewerlab.net - automatic
 
 [Brewer Lab](https://brewerlab.net)
+
+## BACKSLASH ESCAPE
+
+/*Literal astrisks/*
+
+## FENCED CODE BLOCK
+
+```
+echo "Hello"
+```
+
+Python example:
+
+```python
+print("Hello")
+```
+
+R exammple:
+
+```r
+x <- 4^2
+```
