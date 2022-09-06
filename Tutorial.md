@@ -10,13 +10,13 @@
 
 *This text will be italic*
 
-_ This text will also be itatlic __
+_This text will also be itatlic _
 
-** This text will be bold **
+**This text will be bold**
 
-_ This text will be bold _
+_This text will be bold_
 
-_ you **can** combine them _
+_you **can** combine them_
 
 ## BLOCKQUOTES
 
