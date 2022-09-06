@@ -17,3 +17,10 @@ _ This text will also be itatlic __
 _ This text will be bold _
 
 _ you **can** combine them _
+
+## BlockQuotes
+
+_The Way We Were_ by G.A. Parker
+
+> A sweet and friendly prcupine,  /
+> Snuffled up; his eyes met mine,  /
