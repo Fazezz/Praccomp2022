@@ -1,4 +1,4 @@
-# Markdown Tutorial
+# MARKDOWN TUTORIAL
 
 ## This is an h2 tag
 
@@ -14,7 +14,7 @@ _This text will also be itatlic _
 
 **This text will be bold**
 
-_This text will be bold_
+__This text will be bold__
 
 _you **can** combine them_
 
@@ -22,8 +22,8 @@ _you **can** combine them_
 
 _The Way We Were_ by G.A. Parker
 
-> A sweet and friendly prcupine,  /
-> Snuffled up; his eyes met mine,  /
+> A sweet and friendly purcupine,  \
+> Snuffled up; his eyes met mine,  \
 
 ## LISTS
 
@@ -57,7 +57,7 @@ https://brewerlab.net - automatic
 
 ## BACKSLASH ESCAPE
 
-/*Literal astrisks/*
+\*Literal astrisks\*
 
 ## FENCED CODE BLOCK
 
@@ -71,7 +71,7 @@ Python example:
 print("Hello")
 ```
 
-R exammple:
+R example:
 
 ```r
 x <- 4^2
@@ -79,14 +79,14 @@ x <- 4^2
 
 ## TASK LISTS
 
-- [] this is an incomplete item
+- [ ] this is an incomplete item
 - [x] This is a complete item
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> suppor>
 - [x] list syntax required (and unordered or ordered lists supported)
 
 ## TABLES 
 
-First HEader | Secodn Header 
+First Header | Second Header 
 ------------ | -------------
 Content cell 1 | Content cell 2
 Content column 1 | Content column 2
