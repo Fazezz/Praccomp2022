@@ -4,7 +4,7 @@
 
 ### This is an h3 tag
 
-#### Thisi s an h6 tag
+#### This is an h6 tag
 
 ## EMPHASIS
 
@@ -44,3 +44,13 @@ Ordered
 - Point 1
 - Point 2
 - Point 3
+
+## IMAGES
+
+! [Zebrafish] (https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/31-scientistsfi.jpg)
+
+## LINKS
+
+https://brewerlab.net - automatic
+
+[Brewer Lab](https://brewerlab.net)
